@@ -1,10 +1,7 @@
 *.pcap
 *.pcapng
-
 .ipynb_checkpoints/
-
 pycache/
 *.pyc
-
 .vscode/
 .idea/
